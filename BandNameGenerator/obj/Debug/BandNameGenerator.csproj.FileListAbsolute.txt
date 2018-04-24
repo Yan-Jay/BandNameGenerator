@@ -1,0 +1,7 @@
+D:\BandNameGenerator\BandNameGenerator\bin\Debug\BandNameGenerator.exe.config
+D:\BandNameGenerator\BandNameGenerator\bin\Debug\BandNameGenerator.exe
+D:\BandNameGenerator\BandNameGenerator\bin\Debug\BandNameGenerator.pdb
+D:\BandNameGenerator\BandNameGenerator\obj\Debug\BandNameGenerator.csprojResolveAssemblyReference.cache
+D:\BandNameGenerator\BandNameGenerator\obj\Debug\BandNameGenerator.csproj.CoreCompileInputs.cache
+D:\BandNameGenerator\BandNameGenerator\obj\Debug\BandNameGenerator.exe
+D:\BandNameGenerator\BandNameGenerator\obj\Debug\BandNameGenerator.pdb

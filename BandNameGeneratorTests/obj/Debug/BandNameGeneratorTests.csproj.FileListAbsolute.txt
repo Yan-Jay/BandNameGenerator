@@ -1,0 +1,10 @@
+D:\BandNameGenerator\BandNameGeneratorTests\bin\Debug\BandNameGeneratorTests.dll
+D:\BandNameGenerator\BandNameGeneratorTests\bin\Debug\BandNameGeneratorTests.pdb
+D:\BandNameGenerator\BandNameGeneratorTests\bin\Debug\BandNameGenerator.exe
+D:\BandNameGenerator\BandNameGeneratorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\BandNameGenerator\BandNameGeneratorTests\bin\Debug\BandNameGenerator.pdb
+D:\BandNameGenerator\BandNameGeneratorTests\bin\Debug\BandNameGenerator.exe.config
+D:\BandNameGenerator\BandNameGeneratorTests\obj\Debug\BandNameGeneratorTests.csprojResolveAssemblyReference.cache
+D:\BandNameGenerator\BandNameGeneratorTests\obj\Debug\BandNameGeneratorTests.csproj.CoreCompileInputs.cache
+D:\BandNameGenerator\BandNameGeneratorTests\obj\Debug\BandNameGeneratorTests.dll
+D:\BandNameGenerator\BandNameGeneratorTests\obj\Debug\BandNameGeneratorTests.pdb

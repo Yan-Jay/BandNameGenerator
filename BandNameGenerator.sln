@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandNameGenerator", "BandNameGenerator\BandNameGenerator.csproj", "{881522ED-BC3C-46F4-9CFF-A8FF4C77287A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandNameGeneratorTests", "BandNameGeneratorTests\BandNameGeneratorTests.csproj", "{37AC3E86-6216-44B7-BA64-058CA8BB709D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{881522ED-BC3C-46F4-9CFF-A8FF4C77287A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881522ED-BC3C-46F4-9CFF-A8FF4C77287A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881522ED-BC3C-46F4-9CFF-A8FF4C77287A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881522ED-BC3C-46F4-9CFF-A8FF4C77287A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37AC3E86-6216-44B7-BA64-058CA8BB709D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AC3E86-6216-44B7-BA64-058CA8BB709D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AC3E86-6216-44B7-BA64-058CA8BB709D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AC3E86-6216-44B7-BA64-058CA8BB709D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2F5DDE0-0FA6-454A-93DB-233B06F478AE}
+	EndGlobalSection
+EndGlobal
